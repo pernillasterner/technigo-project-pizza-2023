@@ -13,4 +13,4 @@ Also implemented more error handling and validation.
 
 ## View it live
 
-[Virtual Pizza Place](https://technigo-project-pizzeria-2023.netlify.app)
+[Virtual Pizza Place](https://technigo-project-pizza-2023.netlify.app)
